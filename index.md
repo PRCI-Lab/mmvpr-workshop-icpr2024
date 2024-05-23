@@ -53,7 +53,7 @@ This track focuses on recognizing human actions from multi-modal data sources. T
     <tr>
         <td style="text-align: center; padding: 10px; border: 0;">
             <a href="https://xu-tianyang.github.io/">
-                <img src="figs/Tianyang%20Xu.jpg" alt="People" style="width: 500px; height: 700px;">
+                <img src="figs/Tianyang%20Xu.jpg" alt="People" style="width: 140px; height: 160px;">
             </a>
           <a href ="mailto:tianyang.xu@jiangnan.edu.cn">
             <p style="margin: 5px 0;">Tianyang Xu</p>
@@ -62,7 +62,7 @@ This track focuses on recognizing human actions from multi-modal data sources. T
         </td>
         <td style="text-align: center; padding: 10px; border: 0;">
             <a href="https://scholar.google.com/citations?user=5IST34sAAAAJ&hl=zh-CN&oi=ao">
-                <img src="figs/Xiao-jun%20Wu.jpg" alt="People" style="width: 500px; height: 700px;">
+                <img src="figs/Xiao-jun%20Wu.jpg" alt="People" style="width: 140px; height: 160px;">
             </a>
            <a href ="mailto:wu_xiaojun@jiangnan.edu.cn">
             <p style="margin: 5px 0;">Xiao-Jun Wu</p>
@@ -71,7 +71,7 @@ This track focuses on recognizing human actions from multi-modal data sources. T
         </td>
         <td style="text-align: center; padding: 10px; border: 0;">
             <a href="https://www.surrey.ac.uk/people/josef-kittler">
-                <img src="figs/Josef%20Kittler.jpg" alt="People" style="width: 500px; height: 700px;">
+                <img src="figs/Josef%20Kittler.jpg" alt="People" style="width: 140px; height: 160px;">
             </a>
           <a href ="mailto:j.kittler@surrey.ac.uk">
             <p style="margin: 5px 0;">Josef Kittler</p>
@@ -80,7 +80,7 @@ This track focuses on recognizing human actions from multi-modal data sources. T
         </td>
         <td style="text-align: center; padding: 10px; border: 0;">
             <a href="https://www.isical.ac.in/~umapada">
-                <img src="figs/Umapada%20Pal.jpg" alt="People" style="width: 500px; height: 700px;">
+                <img src="figs/Umapada%20Pal.jpg" alt="People" style="width: 140px; height: 160px;">
             </a>
           <a href ="mailto:umapada@isical.ac.in">
             <p style="margin: 5px 0;">Umapada Pal</p>

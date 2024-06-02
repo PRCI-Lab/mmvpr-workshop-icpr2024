@@ -64,6 +64,83 @@ layout: default
         #back-to-top:hover {
             background-color: rgba(240, 240, 240, 0.8);
         }
+
+  @media screen and (max-width: 1440px) {
+    body {
+      padding: 10px;
+    }
+
+    .site-header, .site-footer {
+      padding: 1.5rem;
+    }
+
+    .page {
+      padding: 1.5rem;
+    }
+
+    #navbar {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    #navbar ul {
+      flex-direction: column;
+    }
+
+    #navbar li {
+      margin: 5px 0;
+    }
+
+    #navbar a {
+      text-align: center;
+      padding: 15px 0;
+    }
+  }
+
+  @media screen and (max-width: 768px) {    
+    #navbar {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    #navbar li {
+      margin: 5px 0;
+    }
+  }
+
+  @media screen and (max-width: 480px) {  
+    #navbar {
+      flex-direction: column;
+      align-items: stretch;
+    }
+    #navbar ul {
+      flex-direction: column;
+    }
+    #navbar li {
+      margin: 0;
+      width: 100%;
+    }
+
+    #navbar a {
+      text-align: center;
+      padding: 15px 0;
+    }
+  }
+
+  @media screen and (min-width: 2000px) {
+    #navbar {
+      flex-direction: row;
+      padding: 20px;
+    }
+
+    #navbar li {
+      margin: 0 20px;
+    }
+
+    #navbar a {
+      padding: 15px 20px;
+    }
+  }
 </style>
 
 <button id="back-to-top">Back to Top</button>

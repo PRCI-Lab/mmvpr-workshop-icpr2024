@@ -2,11 +2,8 @@
 layout: default
 ---
 <style>
-    body {
-        font-family: Arial, sans-serif;
-    }
     #navbar {
-        background-color: #333;
+        background-color: white;
         padding: 10px;
         position: fixed;
         top: 0;
@@ -15,34 +12,34 @@ layout: default
         justify-content: center;
         transition: top 0.5s;
         z-index: 1000;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
+
     #navbar ul {
         list-style-type: none;
         margin: 0;
         padding: 0;
         display: flex;
     }
+
     #navbar li {
         margin: 0 20px;
     }
 
     #navbar a {
-        color: white;
+        color: #333;
         text-decoration: none;
         padding: 10px 20px;
         display: block;
     }
 
     #navbar a:hover {
-        background-color: #575757;
+        background-color: #f0f0f0;
         border-radius: 5px;
     }
 
     #navbar.hidden {
-        top: -50px;
-    }
-    .section {
-        padding: 60px 20px 0;
+        top: -80px;
     }
 </style>
 
@@ -56,44 +53,44 @@ layout: default
         }
     });
 
-    document.getElementById('navbar').addEventListener('mouseenter', function() {
-        this.classList.remove('hidden');
-    });
+    document.addEventListener('DOMContentLoaded', function() {
+        const navbar = document.getElementById('navbar');
+        navbar.addEventListener('mouseenter', function() {
+            navbar.classList.remove('hidden');
+        });
 
-    document.getElementById('navbar').addEventListener('mouseleave', function() {
-        if (window.scrollY > 50) {
-            this.classList.add('hidden');
-        }
+        navbar.addEventListener('mouseleave', function() {
+            if (window.scrollY > 50) {
+                navbar.classList.add('hidden');
+            }
+        });
     });
 </script>
 
-{% include navbar.html %}
+<div id="navbar" class="hidden">
+    <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#challenge">Challenge</a></li>
+        <li><a href="#details-of-the-challenge">Details</a></li>
+        <li><a href="#important-dates">Important Dates</a></li>
+        <li><a href="#organizing-committee">Organizing Committee</a></li>
+    </ul>
+</div>
 
 The workshop on Multi-modal Visual Pattern Recognition aims to provide a comprehensive platform for researchers and practitioners to discuss recent advancements, challenges, and opportunities in the field of multi-modal visual pattern recognition. 
 
-<div class="section" id="overview">
-    ## **Overview**
-    {% include_relative docs/overview.md %}
-</div>
+## **Overview**
+{% include_relative docs/overview.md %}
 
-<div class="section" id="challenge">
-    ## **Challenge**
-    {% include_relative docs/challenge.md %}
-</div>
+## **Challenge**
+{% include_relative docs/challenge.md %}
 
-<div class="section" id="details-of-the-challenge">
-    ## **Details of the challenge**
-    {% include_relative docs/details-of-the-challenge.md %}
-</div>
+## **Details of the challenge**
+{% include_relative docs/details-of-the-challenge.md %}
 
-<div class="section" id="important-dates">
-    ## **Important Dates**
-    {% include_relative docs/important-dates.md %}
-</div>
+## **Important Dates**
+{% include_relative docs/important-dates.md %}
 
-<div class="section" id="organizing-committee">
-    ## **Organizing Committee**
-    {% include_relative docs/organizing-committee.md %}
-</div>
-
+## **Organizing Committee**
+{% include_relative docs/organizing-committee.md %}
 

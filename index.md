@@ -45,10 +45,28 @@ layout: default
         top: -80px;
     }
 
-    .content { /* 为内容部分添加样式 */
-        margin-top: 60px; /* 根据导航栏高度调整 margin-top */
+    .content { 
+        margin-top: 60px; 
     }
+    #back-to-top {
+            display: none;
+            position: fixed;
+            bottom: 30px; 
+            right: 30px; 
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            z-index: 1000;
+        }
+        #back-to-top:hover {
+            background-color: #0056b3;
+        }
 </style>
+
+<button id="back-to-top">Back to Top</button>
 
 <script>
     document.addEventListener('scroll', function() {
@@ -70,6 +88,21 @@ layout: default
             if (window.scrollY > 50) {
                 navbar.classList.add('hidden');
             }
+        });
+    });
+
+    var backToTopButton = document.getElementById("back-to-top");
+    window.addEventListener("scroll", function() {
+        if (window.scrollY > 300) {
+            backToTopButton.style.display = "block";
+        } else {
+            backToTopButton.style.display = "none";
+        }
+    });
+    backToTopButton.addEventListener("click", function() {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth"
         });
     });
 </script>

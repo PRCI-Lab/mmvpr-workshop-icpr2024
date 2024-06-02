@@ -2,7 +2,7 @@
     <tr>
         <td style="text-align: center; padding: 10px; border: 0;">
             <a href="https://xu-tianyang.github.io/">
-                <img src="../figs/Tianyang%20Xu.jpg" alt="People" style="width: 160px; height: 160px;">
+                <img src="./figs/Tianyang%20Xu.jpg" alt="People" style="width: 160px; height: 160px;">
             </a>
           <a href ="mailto:tianyang.xu@jiangnan.edu.cn">
             <p style="margin: 5px 0;">Tianyang Xu</p>

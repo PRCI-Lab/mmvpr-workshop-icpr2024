@@ -65,7 +65,7 @@ layout: default
             background-color: rgba(240, 240, 240, 0.8);
         }
 
-  @media screen and (max-width: 1440px) {
+/*   @media screen and (max-width: 1440px) {
     body {
       padding: 10px;
     }
@@ -140,7 +140,7 @@ layout: default
     #navbar a {
       padding: 15px 20px;
     }
-  }
+  } */
 </style>
 
 <button id="back-to-top">Back to Top</button>

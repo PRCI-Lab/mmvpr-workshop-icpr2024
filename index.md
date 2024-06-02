@@ -48,7 +48,7 @@ This track focuses on recognizing human actions from multi-modal data sources. T
 - Camera Ready Deadline: September 27, 2024
 - Workshop: December 01, 2024
 
-## **Organizers Committee**
+## **Organizing Committee**
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
     <tr>
         <td style="text-align: center; padding: 10px; border: 0;">

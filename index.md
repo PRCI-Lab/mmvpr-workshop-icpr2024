@@ -3,10 +3,13 @@ layout: default
 ---
 <style>
     #navbar {
-        background-color: white;
+        background-color: rgba(255, 255, 255, 0.8);
         padding: 10px;
+        box-sizing: border-box;
         position: fixed;
         top: 0;
+        left: 0; 
+        right: 0;
         width: 100%;
         display: flex;
         justify-content: center;
@@ -34,12 +37,16 @@ layout: default
     }
 
     #navbar a:hover {
-        background-color: #f0f0f0;
+        background-color: rgba(240, 240, 240, 0.8);
         border-radius: 5px;
     }
 
     #navbar.hidden {
         top: -80px;
+    }
+
+    .content { /* 为内容部分添加样式 */
+        margin-top: 60px; /* 根据导航栏高度调整 margin-top */
     }
 </style>
 
@@ -76,6 +83,7 @@ layout: default
         <li><a href="#organizing-committee">Organizing Committee</a></li>
     </ul>
 </div>
+<div class="navbar-placeholder"></div>
 
 The workshop on Multi-modal Visual Pattern Recognition aims to provide a comprehensive platform for researchers and practitioners to discuss recent advancements, challenges, and opportunities in the field of multi-modal visual pattern recognition. 
 

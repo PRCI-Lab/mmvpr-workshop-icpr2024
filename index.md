@@ -53,8 +53,8 @@ layout: default
             position: fixed;
             bottom: 30px; 
             right: 30px; 
-            background-color: #007bff;
-            color: white;
+            background-color: rgba(240, 240, 240, 0.8);
+            color: #333;
             border: none;
             padding: 10px 20px;
             border-radius: 5px;
@@ -62,7 +62,7 @@ layout: default
             z-index: 1000;
         }
         #back-to-top:hover {
-            background-color: #0056b3;
+            background-color: rgba(240, 240, 240, 0.8);
         }
 </style>
 

@@ -40,13 +40,7 @@ This track focuses on recognizing human actions from multi-modal data sources. T
 
 
 ## **Important Dates**
-- Challenge Open (Training dataset release): July 20, 2024
-- Test Dataset Release: July 25, 2024
-- Results Submission Deadline: August 20, 2024
-- Paper Submission Deadline: September 20, 2024
-- Notification to Authors: September 22, 2024
-- Camera Ready Deadline: September 27, 2024
-- Workshop: December 01, 2024
+{% include_relative docs/important-dates.md %}
 
 ## **Organizing Committee**
 {% include_relative docs/organizing-committee.md %}

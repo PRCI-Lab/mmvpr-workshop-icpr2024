@@ -21,6 +21,57 @@
   }
 }
 
+// Make sure to use your actual SASS file location
+.site {
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 2rem 1rem;
+  
+  @media screen and (max-width: 1440px) {
+      .wrapper {
+          padding: 1em;
+      }
+
+      nav {
+          font-size: 16px;
+      }
+  }
+  @media screen and (max-width: 768px) {
+      .wrapper {
+          padding: 1em;
+      }
+
+      nav {
+          font-size: 14px;
+      }
+  }
+
+  @media screen and (max-width: 480px) {
+    font-size: 14px;
+
+    .wrapper {
+        padding: 1em;
+    }
+
+    header, .site-footer, .page {
+        padding: 1em;
+    }
+
+    nav {
+        font-size: 12px;
+    }
+  }
+}
+nav {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+    @media screen and (max-width: 1440px) {
+        flex-direction: column;
+    }
+}
+
 * {
   box-sizing: border-box;
 }
@@ -62,47 +113,6 @@ a {
 }
 .main-content {
     text-align: justify;
-}
-// Make sure to use your actual SASS file location
-.site {
-  margin: 0 auto;
-  max-width: 1000px;
-  padding: 2rem 1rem;
-
-  @media screen and (max-width: 768px) {
-      .wrapper {
-          padding: 1em;
-      }
-
-      nav {
-          font-size: 14px;
-      }
-  }
-
-  @media screen and (max-width: 480px) {
-    font-size: 14px;
-
-    .wrapper {
-        padding: 1em;
-    }
-
-    header, .site-footer, .page {
-        padding: 1em;
-    }
-
-    nav {
-        font-size: 12px;
-    }
-  }
-}
-nav {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-
-    @media screen and (max-width: 480px) {
-        flex-direction: column;
-    }
 }
 
 .btn {

@@ -64,6 +64,9 @@ layout: default
         #back-to-top:hover {
             background-color: rgba(240, 240, 240, 0.8);
         }
+        .navbar-placeholder {
+        height: 60px;
+    }
 
 /*   @media screen and (max-width: 1440px) {
     body {
@@ -143,30 +146,30 @@ layout: default
   } */
 </style>
 
-<button id="back-to-top">Back to Top</button>
+<button id="back-to-top"> ⬆ </button>
 
 <script>
-    document.addEventListener('scroll', function() {
-        const navbar = document.getElementById('navbar');
-        if (window.scrollY > 50) {
-            navbar.classList.add('hidden');
-        } else {
-            navbar.classList.remove('hidden');
-        }
-    });
+    // document.addEventListener('scroll', function() {
+    //     const navbar = document.getElementById('navbar');
+    //     if (window.scrollY > 50) {
+    //         navbar.classList.add('hidden');
+    //     } else {
+    //         navbar.classList.remove('hidden');
+    //     }
+    // });
 
-    document.addEventListener('DOMContentLoaded', function() {
-        const navbar = document.getElementById('navbar');
-        navbar.addEventListener('mouseenter', function() {
-            navbar.classList.remove('hidden');
-        });
+    // document.addEventListener('DOMContentLoaded', function() {
+    //     const navbar = document.getElementById('navbar');
+    //     navbar.addEventListener('mouseenter', function() {
+    //         navbar.classList.remove('hidden');
+    //     });
 
-        navbar.addEventListener('mouseleave', function() {
-            if (window.scrollY > 50) {
-                navbar.classList.add('hidden');
-            }
-        });
-    });
+    //     navbar.addEventListener('mouseleave', function() {
+    //         if (window.scrollY > 50) {
+    //             navbar.classList.add('hidden');
+    //         }
+    //     });
+    // });
 
     var backToTopButton = document.getElementById("back-to-top");
     window.addEventListener("scroll", function() {

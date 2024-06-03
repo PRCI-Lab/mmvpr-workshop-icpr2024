@@ -41,9 +41,9 @@ layout: default
         border-radius: 5px;
     }
 
-    #navbar.hidden {
+/*     #navbar.hidden {
         top: -80px;
-    }
+    } */
 
     .content { 
         margin-top: 60px; 
@@ -164,11 +164,11 @@ layout: default
     //         navbar.classList.remove('hidden');
     //     });
 
-    //     navbar.addEventListener('mouseleave', function() {
-    //         if (window.scrollY > 50) {
-    //             navbar.classList.add('hidden');
-    //         }
-    //     });
+    //     // navbar.addEventListener('mouseleave', function() {
+    //     //     if (window.scrollY > 50) {
+    //     //         navbar.classList.add('hidden');
+    //     //     }
+    //     // });
     // });
 
     var backToTopButton = document.getElementById("back-to-top");

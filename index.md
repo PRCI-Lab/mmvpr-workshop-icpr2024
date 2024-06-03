@@ -41,9 +41,9 @@ layout: default
         border-radius: 5px;
     }
 
-/*     #navbar.hidden {
+    #navbar.hidden {
         top: -80px;
-    } */
+    }
 
     .content { 
         margin-top: 60px; 
@@ -146,30 +146,30 @@ layout: default
   } */
 </style>
 
-<button id="back-to-top"> ⬆ </button>
+<button id="back-to-top"> Top </button>
 
 <script>
-    // document.addEventListener('scroll', function() {
-    //     const navbar = document.getElementById('navbar');
-    //     if (window.scrollY > 50) {
-    //         navbar.classList.add('hidden');
-    //     } else {
-    //         navbar.classList.remove('hidden');
-    //     }
-    // });
+    document.addEventListener('scroll', function() {
+        const navbar = document.getElementById('navbar');
+        if (window.scrollY > 50) {
+            navbar.classList.add('hidden');
+        } else {
+            navbar.classList.remove('hidden');
+        }
+    });
 
-    // document.addEventListener('DOMContentLoaded', function() {
-    //     const navbar = document.getElementById('navbar');
-    //     navbar.addEventListener('mouseenter', function() {
-    //         navbar.classList.remove('hidden');
-    //     });
+    document.addEventListener('DOMContentLoaded', function() {
+        const navbar = document.getElementById('navbar');
+        navbar.addEventListener('mouseenter', function() {
+            navbar.classList.remove('hidden');
+        });
 
-    //     // navbar.addEventListener('mouseleave', function() {
-    //     //     if (window.scrollY > 50) {
-    //     //         navbar.classList.add('hidden');
-    //     //     }
-    //     // });
-    // });
+        navbar.addEventListener('mouseleave', function() {
+            if (window.scrollY > 50) {
+                navbar.classList.add('hidden');
+            }
+        });
+    });
 
     var backToTopButton = document.getElementById("back-to-top");
     window.addEventListener("scroll", function() {

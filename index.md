@@ -196,7 +196,7 @@ layout: default
         <li><a href="#organizing-committee">Organizing Committee</a></li>
     </ul>
 </div>
-<div class="navbar-placeholder"></div>
+<!-- <div class="navbar-placeholder"></div> -->
 
 The workshop on Multi-modal Visual Pattern Recognition aims to provide a comprehensive platform for researchers and practitioners to discuss recent advancements, challenges, and opportunities in the field of multi-modal visual pattern recognition. 
 

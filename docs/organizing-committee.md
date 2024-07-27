@@ -51,7 +51,7 @@
             <a href="https://github.com/happylinze">
                 <img src="./figs/Linze%20Li.jpg" alt="People" style="width: 160px; height: 160px;">
             </a>
-           <a href ="mailto:linze.li@stu.jiangnan.edu.cn">
+           <a href ="mailto:linze.cv@gmail.com">
             <p style="margin: 5px 0;">Linze Li</p>
            </a>
             <p style="margin: 5px 0; font-size: 12px; color: gray;">Jiangnan University</p>
@@ -71,6 +71,17 @@
             </a>
           <a href ="mailto:yifan.pan@stu.jiangnan.edu.cn">
             <p style="margin: 5px 0;">Yifan Pan</p>
+          </a>
+            <p style="margin: 5px 0; font-size: 12px; color: gray;">Jiangnan University</p>
+        </td>
+    </tr>
+    <tr>
+         <td style="text-align: center; padding: 10px; border: 0;">
+            <a href="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">
+                <img src="./figs/Minzhi%20Li.jpg" alt="People" style="width: 160px; height: 160px;">
+            </a>
+          <a href ="mailto:minzhi.li@stu.jiangnan.edu.cn">
+            <p style="margin: 5px 0;">Minzhi Li</p>
           </a>
             <p style="margin: 5px 0; font-size: 12px; color: gray;">Jiangnan University</p>
         </td>

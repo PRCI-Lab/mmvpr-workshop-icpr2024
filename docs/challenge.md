@@ -1,4 +1,4 @@
-The workshop will feature three challenge tracks, each focusing on a specific aspect of multi-modal pattern recognition.
+The workshop will feature three challenge tracks, each focusing on a specific aspect of multi-modal pattern recognition. To participate, please fill out this online [Multi-modal Visual Pattern Recognition Challenge Datasets Request Form](https://docs.google.com/forms/d/e/1FAIpQLSeJGZTYW-JS0-IJKnWgYGnE0EgdXnoL7Yi0xc-F9Z6XU1X4Zg/viewform).
 
 **Track 1: Multi-modal Tracking** : This track aims to address the technical challenges associated with tracking objects using multi-modal data. 
 You can participate in in the Track 1 through the **[link](https://codalab.lisn.upsaclay.fr/competitions/19861)**. 

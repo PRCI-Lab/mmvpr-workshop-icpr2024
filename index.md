@@ -198,7 +198,7 @@ layout: default
 </div>
 <!-- <div class="navbar-placeholder"></div> -->
 
-The workshop on Multi-modal Visual Pattern Recognition aims to provide a comprehensive platform for researchers and practitioners to discuss recent advancements, challenges, and opportunities in the field of multi-modal visual pattern recognition. 
+The workshop on Multi-Modal Visual Pattern Recognition aims to provide a comprehensive platform for researchers and practitioners to discuss recent advancements, challenges, and opportunities in the field of multi-modal visual pattern recognition. 
 
 ## **Overview**
 {% include_relative docs/overview.md %}

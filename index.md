@@ -198,7 +198,9 @@ layout: default
 </div>
 <!-- <div class="navbar-placeholder"></div> -->
 
-The workshop on Multi-Modal Visual Pattern Recognition aims to provide a comprehensive platform for researchers and practitioners to discuss recent advancements, challenges, and opportunities in the field of multi-modal visual pattern recognition. 
+The workshop on Multi-Modal Visual Pattern Recognition aims to provide a comprehensive platform for researchers and practitioners to discuss recent advancements, challenges, and opportunities in the field of multi-modal visual pattern recognition. The workshop is held in conjunction with the 27th [International Conference on Pattern Recognition (ICPR 2024)(https://icpr2024.org/).
+
+
 
 ## **Overview**
 {% include_relative docs/overview.md %}

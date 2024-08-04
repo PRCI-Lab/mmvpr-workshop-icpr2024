@@ -39,6 +39,33 @@
     </tr>
     <tr>
         <td style="text-align: center; padding: 10px; border: 0;">
+            <a href="https://www.au.tsinghua.edu.cn/info/1096/2329.htm">
+                <img src="./figs/Jiwen%20Lu.jpg" alt="People" style="width: 160px; height: 160px;">
+            </a>
+          <a href ="mailto:lujiwen@tsinghua.edu.cn">
+            <p style="margin: 5px 0;">Jiwen Lu</p>
+          </a>
+            <p style="margin: 5px 0; font-size: 12px; color: gray; ">Tsinghua University</p>
+        </td>
+        <td style="text-align: center; padding: 10px; border: 0;">
+            <a href="https://person.zju.edu.cn/en/xilics">
+                <img src="./figs/Xi%20Li.jpg" alt="People" style="width: 160px; height: 160px;">
+            </a>
+           <a href ="mailto:xilizju@zju.edu.cn">
+            <p style="margin: 5px 0;">Xi Li</p>
+           </a>
+            <p style="margin: 5px 0; font-size: 12px; color: gray;">Zhejiang University</p>
+        </td>
+        <td style="text-align: center; padding: 10px; border: 0;">
+            <a href="https://pureportal.coventry.ac.uk/en/persons/vasile-palade">
+                <img src="./figs/Vasile%20Palade.jpg" alt="People" style="width: 160px; height: 160px;">
+            </a>
+          <a href ="https://pureportal.coventry.ac.uk/en/persons/vasile-palade">
+            <p style="margin: 5px 0;">Vasile Palade</p>
+          </a>
+            <p style="margin: 5px 0; font-size: 12px; color: gray;">Coventry University</p>
+        </td>
+        <td style="text-align: center; padding: 10px; border: 0;">
             <a href="https://scholar.google.com/citations?user=tH4flbMAAAAJ">
                 <img src="./figs/Xuefeng%20Zhu.jpg" alt="People" style="width: 160px; height: 160px;">
             </a>
@@ -46,7 +73,9 @@
             <p style="margin: 5px 0;">Xuefeng Zhu</p>
           </a>
             <p style="margin: 5px 0; font-size: 12px; color: gray; ">Jiangnan University</p>
-        </td>
+        </td> 
+    </tr>
+    <tr>
         <td style="text-align: center; padding: 10px; border: 0;">
             <a href="https://github.com/happylinze">
                 <img src="./figs/Linze%20Li.jpg" alt="People" style="width: 160px; height: 160px;">
@@ -74,9 +103,7 @@
           </a>
             <p style="margin: 5px 0; font-size: 12px; color: gray;">Jiangnan University</p>
         </td>
-    </tr>
-    <tr>
-        <td style="text-align: center; padding: 10px; border: 0;">
+            <td style="text-align: center; padding: 10px; border: 0;">
             <a href="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">
                 <img src="./figs/Minzhi%20Li.jpg" alt="People" style="width: 160px; height: 160px;">
             </a>
@@ -85,5 +112,16 @@
           </a>
             <p style="margin: 5px 0; font-size: 12px; color: gray;">Jiangnan University</p>
         </td>
+    </tr>
+    <tr>
+        <td style="text-align: center; padding: 10px; border: 0;">
+            <a href="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">
+                <img src="./figs/Han%20Zang.jpg" alt="People" style="width: 160px; height: 160px;">
+            </a>
+          <a href ="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">
+            <p style="margin: 5px 0;">Han Zang</p>
+          </a>
+            <p style="margin: 5px 0; font-size: 12px; color: gray; ">Jiangnan University</p>
+        </td> 
     </tr>
 </table> 

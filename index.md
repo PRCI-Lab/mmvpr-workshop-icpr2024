@@ -218,10 +218,10 @@ layout: default
 
 <div class="image-container">
   <div class="image-wrapper">
-    <img src="{{ site.baseurl }}/icon/MMVPR-logo.png" alt="MMVPR">
+    <img src="/figs/icon/MMVPR-logo.png" alt="MMVPR">
   </div>
   <div class="image-wrapper">
-    <img src="{{ site.baseurl }}/icon/icon.png" alt="ICPR">
+    <img src="./figs/icon/icon.png" alt="ICPR">
   </div>
 </div>
 

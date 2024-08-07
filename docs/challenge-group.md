@@ -1,2 +1,2 @@
 - If you have any questions about the challenge, you can discuss it in the [Google Group](https://groups.google.com/g/mmvpr/).
-- You can also join the WeChat Group by the QR code.<br><img src="./figs/WeChat%20Group.jpg" alt="WeChatGroup" style="width: 180px; height: 280px;">
+- You can also join the WeChat Group by the QR code.<br><img src="./figs/WeChat%20Group.jpg" alt="WeChatGroup" style="width: 240px; height: 320px;">

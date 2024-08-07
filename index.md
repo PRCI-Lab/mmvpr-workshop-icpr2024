@@ -48,6 +48,26 @@ layout: default
     .content { 
         margin-top: 60px; 
     }
+    .image-container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          gap: 20px;
+          margin-top: 20px; 
+    }
+
+    .image-wrapper {
+          width: 300px; 
+          height: 300px;
+          overflow: hidden;
+    }
+
+    .image-wrapper img {
+          width: 100%;
+          height: 100%;
+          object-fit: cover;
+    }
+    
     #back-to-top {
             display: none;
             position: fixed;
@@ -80,25 +100,7 @@ layout: default
     .page {
       padding: 1.5rem;
     }
-
-    .image-container {
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      gap: 20px;
-      margin-top: 20px; 
-    }
-
-    .image-wrapper {
-        max-width: 300px;
-    }
-
-.image-wrapper img {
-  width: 100%;
-  height: auto;
-  display: block;
-}
-
+    
     #navbar {
       flex-direction: column;
       align-items: stretch;

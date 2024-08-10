@@ -211,7 +211,7 @@ layout: default
     <ul>
         <li><a href="#overview">Overview</a></li>
         <li><a href="#challenge">Challenge</a></li>
-        <li><a href="#details-of-the-challenge">Details</a></li>
+        <li><a href="#details">Details</a></li>
         <li><a href="#important-dates">Important Dates</a></li>
         <li><a href="#organizing-committee">Organizing Committee</a></li>
     </ul>
@@ -237,7 +237,7 @@ The workshop on Multi-Modal Visual Pattern Recognition aims to provide a compreh
 ## **Challenge**
 {% include_relative docs/challenge.md %}
 
-## **Details of the challenge**
+## **Details**
 {% include_relative docs/details-of-the-challenge.md %}
 
 ## **Important Dates**

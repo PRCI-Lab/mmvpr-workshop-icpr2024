@@ -123,5 +123,14 @@
           </a>
             <p style="margin: 5px 0; font-size: 12px; color: gray; ">Jiangnan University</p>
         </td> 
+        <td style="text-align: center; padding: 10px; border: 0;">
+            <a href="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">
+                <img src="./figs/Youchen%20Xie.jpg" alt="People" style="width: 120px; height: 120px;">
+            </a>
+          <a href ="https://prci-lab.github.io/mmvpr-workshop-icpr2024/">
+            <p style="margin: 5px 0;">Youchen Xie</p>
+          </a>
+            <p style="margin: 5px 0; font-size: 12px; color: gray; ">Jiangnan University</p>
+        </td> 
     </tr>
 </table> 

@@ -9,6 +9,6 @@ The goal of this track is to explore techniques for detecting objects of interes
 **Track 3: Multi-Modal Action Recognition**    
 This track focuses on recognizing human actions from multi-modal data sources. The dataset for this track contains 2500 multi-modal videos (2000 for training and 500 for test) spanning across 20 action classes.   
 
-<span style="color:red;">Note</span>
-**_Note: The Top-3 teams in each track are required to submit a workshop paper describing their respective solutions. This workshop sets awards for the Top-3 of each track, 2 best research paper awards and 2 Best solution paper awards._**
+<span style="color:red;">**Note:**</span>
+**_The Top-3 teams in each track are required to submit a workshop paper describing their respective solutions. This workshop sets awards for the Top-3 of each track, 2 best research paper awards and 2 Best solution paper awards._**
 

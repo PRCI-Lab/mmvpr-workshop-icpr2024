@@ -6,7 +6,6 @@ We invite submissions presenting new and original research on topics including b
    - Multi-Modal Machine Learning in Healthcare
    - Few-Shot and Zero-Shot Learning in Multi-Modal Systems
    - Applications of Multi-Modal Learning in Social Media
-
 ### Paper Submission and Review
 ICPR-2024 will follow a single-blind review process. Authors can include their names and affiliations in the manuscript. Also, the authors can submit their arXiv papers in ICPR-2024. <span style="color:red;">Note</span>: Please submit your paper to the [**email**](mailto:xuefeng.zhu@jiangnan.edu.cn) by October 7, 2024, 11:59pm Anywhere On Earth. 
 ### Paper Format and Length

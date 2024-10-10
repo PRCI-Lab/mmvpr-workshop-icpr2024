@@ -8,7 +8,7 @@ We invite submissions presenting new and original research on topics including b
    - Applications of Multi-Modal Learning in Social Media
 
 ### Paper Submission and Review
-ICPR-2024 will follow a single-blind review process. Authors can include their names and affiliations in the manuscript. Also, the authors can submit their arXiv papers in ICPR-2024.
+ICPR-2024 will follow a single-blind review process. Authors can include their names and affiliations in the manuscript. Also, the authors can submit their arXiv papers in ICPR-2024. <span style="color:red;">Note</span>: Please submit your paper to the [**email**](mailto:xuefeng.zhu@jiangnan.edu.cn) by October 7, 2024, 11:59pm Anywhere On Earth. 
 ### Paper Format and Length
 Springer LNCS format with maximum 15 pages (including references) during paper submission. There is no minimum page limit. To take care of reviewers' comments, one more page is allowed (without any charge) during revised/camera ready submission. Moreover, authors may purchase up to 2 extra pages. Extra page charges must be paid at the time of registration.
 Springer LNCS paper formatting instructions and templates for ICPR-2024 are available here [DOC](https://icpr2024.org/pdf/ICPR_2024_DOC_Templates.zip) and [LaTeX](https://icpr2024.org/pdf/ICPR_2024_LaTeX_Templates.zip).

@@ -240,6 +240,9 @@ The workshop on Multi-Modal Visual Pattern Recognition aims to provide a compreh
 ## **Details**
 {% include_relative docs/details-of-the-challenge.md %}
 
+## **Call for papers**
+{% include_relative docs/cfp.md %}
+
 ## **Important Dates**
 {% include_relative docs/important-dates.md %}
 

@@ -25,7 +25,7 @@
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>19:30-20:00</td>
+    <td>18:30-20:00</td>
     <td>Session 3: Winner Presentations & Contributed Papers</td>
   </tr>
   <tr>

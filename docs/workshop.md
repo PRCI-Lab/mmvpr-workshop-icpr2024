@@ -21,7 +21,7 @@
     <td>Session 2: Invited Talk 2</td>
   </tr>
   <tr>
-    <td>18:20-19:30</td>
+    <td>18:20-18:30</td>
     <td>Coffee Break</td>
   </tr>
   <tr>

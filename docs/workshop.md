@@ -1,5 +1,5 @@
 - **Date**: December 1st 2024
-- **Time**: 15:00—18:00 PM in Beijing Time (CST)
+- **Time**: 17:00—20:00 PM in Beijing Time (CST)
 
 ### Agenda
 
@@ -9,27 +9,27 @@
     <th>Session Title</th>
   </tr>
   <tr>
-    <td>15:00-15:20</td>
+    <td>17:00-17:20</td>
     <td>Workshop Reports & Challenge Results</td>
   </tr>
   <tr>
-    <td>15:20-15:50</td>
+    <td>17:20-17:50</td>
     <td>Session 1: Invited Talk 1</td>
   </tr>
   <tr>
-    <td>15:50-16:20</td>
+    <td>17:50-18:20</td>
     <td>Session 2: Invited Talk 2</td>
   </tr>
   <tr>
-    <td>16:20-16:30</td>
+    <td>18:20-19:30</td>
     <td>Coffee Break</td>
   </tr>
   <tr>
-    <td>16:30-18:00</td>
+    <td>19:30-20:00</td>
     <td>Session 3: Winner Presentations & Contributed Papers</td>
   </tr>
   <tr>
-    <td>18:00</td>
+    <td>20:00</td>
     <td>Closing Remarks</td>
   </tr>
 </table>

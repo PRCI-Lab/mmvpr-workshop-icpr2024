@@ -14,11 +14,11 @@
   </tr>
   <tr>
     <td>17:30-18:00</td>
-    <td>Session 1: Invited Talk 1 <strong>Dr. Han Xu</strong>, Southeast University, China</td>
+    <td>Session 1: Invited Talk 1 - <strong>Dr. Han Xu</strong>, Southeast University, China</td>
   </tr>
   <tr>
     <td>18:00-18:30</td>
-    <td>Session 2: Invited Talk 2 <strong>Dr. Hui Li</strong>, Jiangnan University, China</td>
+    <td>Session 2: Invited Talk 2 - <strong>Dr. Hui Li</strong>, Jiangnan University, China</td>
   </tr>
   <tr>
     <td>18:30-19:00</td>

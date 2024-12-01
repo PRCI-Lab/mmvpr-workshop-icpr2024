@@ -13,7 +13,7 @@
     <td>
       Session 1: Workshop Reports & Challenge Results
         <ul>
-          <li>Opening remarks: <br> <strong>Prof. Josef Kittler</strong> (University of Surrey, UK), <strong>Prof. Xiao-Jun Wu</strong> (Jiangnan University, China)</li>
+          <li>Opening remarks: <br> <strong>Prof. Josef Kittler</strong> (University of Surrey, UK), <br><strong>Prof. Xiao-Jun Wu</strong> (Jiangnan University, China)</li>
           <li>Workshop Reports & Challenge Results: <br> <strong>Assoc. Prof. Tianyang Xu</strong> (Jiangnan University, China)</li>
         </ul>
     </td>

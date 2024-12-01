@@ -34,6 +34,10 @@
           <strong>Affiliations:</strong> <span style="font-size: 0.9em;">Geological Survey of Finland (GTK), Finland; Department of Computing, University of Turku, Finland; Aurum Exploration Limited (Aurum), Kells, Ireland</span>
         </li>
         <li>
+          <strong>Paper Title:</strong> Adapting SAM2 for Visual Object Tracking <br>
+          <strong>Affiliations:</strong> <span style="font-size: 0.9em;">University of Washington, Seattle WA, USA; Electronics and Telecommunications Research Institute, Daejeon, South Korea; National Center for High-performance Computing, Hsinchu, Taiwan</span>
+        </li>
+        <li>
           <strong>Paper Title:</strong> Visual Prompt with Larger Model for Multi-Modal Tracking <br>
           <strong>Affiliations:</strong> <span style="font-size: 0.9em;">Dalian University of Technology, China; Dalian Minzu University, China</span>
         </li>

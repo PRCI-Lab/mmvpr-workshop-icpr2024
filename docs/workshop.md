@@ -10,7 +10,13 @@
   </tr>
   <tr>
     <td>17:00-17:30</td>
-    <td>Workshop Reports & Challenge Results</td>
+    <td>
+      Session 1: Workshop Reports & Challenge Results
+        <ul>
+          <li>Opening remarks: <strong>Prof. Josef Kittler</strong> (University of Surrey), <strong>Prof. Xiao-Jun Wu</strong> (Jiangnan University)</li>
+          <li>Workshop Reports & Challenge Results: <strong>Assoc. Prof. Tianyang Xu</strong> (Jiangnan University)</li>
+        </ul>
+    </td>
   </tr>
   <tr>
     <td>17:30-18:00</td>
@@ -18,7 +24,7 @@
   </tr>
   <tr>
     <td>18:00-18:30</td>
-    <td>Session 2: Invited Talk 2 - <strong>Dr. Hui Li</strong>, Jiangnan University, China</td>
+    <td>Session 3: Invited Talk 2 - <strong>Dr. Hui Li</strong>, Jiangnan University, China</td>
   </tr>
   <tr>
     <td>18:30-19:00</td>
@@ -27,7 +33,7 @@
   <tr>
     <td>19:00-20:30</td>
     <td>
-      Session 3: Winner Presentations & Contributed Papers
+      Session 4: Winner Presentations & Contributed Papers
       <ol>
         <li>
           <strong>Paper Title:</strong> Multi-Modal Fusion of LiDAR and PRISMA Data for Cobalt Mapping: A Case Study from the Áramo Mine, Spain⋆ <br>
@@ -35,7 +41,7 @@
         </li>
         <li>
           <strong>Paper Title:</strong> Adapting SAM2 for Visual Object Tracking <br>
-          <span style="font-size: 0.9em;"><strong>Affiliations:</strong> University of Washington, Seattle WA, USA; Electronics and Telecommunications Research Institute, Daejeon, South Korea; National Center for High-performance Computing, Hsinchu, Taiwan</span>
+          <span style="font-size: 0.9em;"><strong>Affiliations:</strong> University of Washington, Seattle WA, USA; Electronics and Telecommunications Research Institute, Daejeon, South Korea; National Center for High-performance Computing, Hsinchu</span>
         </li>
         <li>
           <strong>Paper Title:</strong> Visual Prompt with Larger Model for Multi-Modal Tracking <br>

@@ -13,18 +13,18 @@
     <td>
       Session 1: Workshop Reports & Challenge Results
         <ul>
-          <li>Opening remarks: <strong>Prof. Josef Kittler</strong> (University of Surrey), <strong>Prof. Xiao-Jun Wu</strong> (Jiangnan University)</li>
-          <li>Workshop Reports & Challenge Results: <strong>Assoc. Prof. Tianyang Xu</strong> (Jiangnan University)</li>
+          <li>Opening remarks: <strong>Prof. Josef Kittler</strong> (University of Surrey, UK), <strong>Prof. Xiao-Jun Wu</strong> (Jiangnan University, China)</li>
+          <li>Workshop Reports & Challenge Results: <strong>Assoc. Prof. Tianyang Xu</strong> (Jiangnan University, China)</li>
         </ul>
     </td>
   </tr>
   <tr>
     <td>17:30-18:00</td>
-    <td>Session 1: Invited Talk 1 - <strong>Dr. Han Xu</strong>, Southeast University, China</td>
+    <td>Session 1: Invited Talk 1 - <strong>Dr. Han Xu</strong> (Southeast University, China)</td>
   </tr>
   <tr>
     <td>18:00-18:30</td>
-    <td>Session 3: Invited Talk 2 - <strong>Dr. Hui Li</strong>, Jiangnan University, China</td>
+    <td>Session 3: Invited Talk 2 - <strong>Dr. Hui Li</strong> (Jiangnan University, China)</td>
   </tr>
   <tr>
     <td>18:30-19:00</td>
